@@ -1,0 +1,113 @@
+         22259709 function calls in 5.359 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   390639    0.098    0.000    0.098    0.000 algorithms.py:17(__init__)
+ 13283785    1.232    0.000    1.232    0.000 algorithms.py:35(__lt__)
+   781308    0.128    0.000    0.128    0.000 algorithms.py:41(state_hash)
+    50933    0.007    0.000    0.007    0.000 algorithms.py:49(__eq__)
+   915193    0.077    0.000    0.077    0.000 algorithms.py:56(get_x)
+   915193    0.067    0.000    0.067    0.000 algorithms.py:62(get_y)
+  1894635    0.154    0.000    0.154    0.000 algorithms.py:68(get_g)
+   426665    0.052    0.000    0.052    0.000 algorithms.py:74(set_g)
+   722663    0.054    0.000    0.054    0.000 algorithms.py:80(get_cost)
+   426695    0.051    0.000    0.051    0.000 algorithms.py:86(set_cost)
+   390639    0.369    0.000    2.997    0.000 algorithms.py:127(_in_closed_list)
+       25    0.003    0.000    0.003    0.000 algorithms.py:187(<dictcomp>)
+        5    0.001    0.000    0.001    0.000 algorithms.py:199(<dictcomp>)
+       30    0.309    0.010    5.359    0.179 algorithms.py:153(dijkstra)
+   390669    0.349    0.000    0.522    0.000 algorithms.py:102(octile)
+   407264    0.211    0.000    0.211    0.000 map.py:100(is_valid_pair)
+   390639    0.056    0.000    0.056    0.000 map.py:112(cost)
+    50908    0.764    0.000    1.361    0.000 map.py:123(successors)
+    58645    0.018    0.000    0.029    0.000 {built-in method _heapq.heappush}
+    50933    0.049    0.000    0.089    0.000 {built-in method _heapq.heappop}
+    36026    1.253    0.000    2.434    0.000 {built-in method _heapq.heapify}
+       30    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+   175935    0.013    0.000    0.013    0.000 {built-in method builtins.abs}
+    50938    0.005    0.000    0.005    0.000 {built-in method builtins.len}
+    58645    0.011    0.000    0.011    0.000 {built-in method builtins.min}
+       30    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+   390639    0.028    0.000    0.028    0.000 {method 'append' of 'list' objects}
+
+
+         38063244 function calls in 9.588 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   680759    0.183    0.000    0.183    0.000 algorithms.py:17(__init__)
+ 17946249    1.681    0.000    1.681    0.000 algorithms.py:35(__lt__)
+  1361578    0.227    0.000    0.227    0.000 algorithms.py:41(state_hash)
+  1585207    0.133    0.000    0.133    0.000 algorithms.py:56(get_x)
+  1585207    0.117    0.000    0.117    0.000 algorithms.py:62(get_y)
+  4668056    0.368    0.000    0.368    0.000 algorithms.py:68(get_g)
+   736928    0.092    0.000    0.092    0.000 algorithms.py:74(set_g)
+  2122027    0.166    0.000    0.166    0.000 algorithms.py:80(get_cost)
+  1417807    0.171    0.000    0.171    0.000 algorithms.py:86(set_cost)
+   680819    0.575    0.000    1.790    0.000 algorithms.py:121(mm_p)
+   680759    0.646    0.000    4.262    0.000 algorithms.py:127(_in_closed_list)
+       30    0.003    0.000    0.003    0.000 algorithms.py:224(<dictcomp>)
+    88634    0.632    0.000    9.405    0.000 algorithms.py:203(_bi)
+       30    0.005    0.000    0.008    0.000 algorithms.py:223(_get_bi_closed)
+    88659    0.021    0.000    0.036    0.000 algorithms.py:239(mm_stop)
+       30    0.109    0.004    9.588    0.320 algorithms.py:244(bi)
+   680819    0.613    0.000    0.919    0.000 algorithms.py:102(octile)
+   709072    0.372    0.000    0.372    0.000 map.py:100(is_valid_pair)
+   680759    0.100    0.000    0.100    0.000 map.py:112(cost)
+    88634    1.329    0.000    2.393    0.000 map.py:123(successors)
+    97688    0.028    0.000    0.045    0.000 {built-in method _heapq.heappush}
+    88634    0.087    0.000    0.159    0.000 {built-in method _heapq.heappop}
+    56169    1.688    0.000    3.281    0.000 {built-in method _heapq.heapify}
+       30    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:232(_remove_proxy)
+        1    0.000    0.000    0.000    0.000 weakref.py:54(_cb)
+        1    0.000    0.000    0.000    0.000 {built-in method sys.is_finalizing}
+   293064    0.024    0.000    0.024    0.000 {built-in method builtins.abs}
+       30    0.000    0.000    0.000    0.000 {built-in method builtins.callable}
+   177324    0.016    0.000    0.016    0.000 {built-in method builtins.len}
+   680819    0.110    0.000    0.110    0.000 {built-in method builtins.max}
+   186598    0.043    0.000    0.043    0.000 {built-in method builtins.min}
+        1    0.000    0.000    0.000    0.000 {method 'discard' of 'set' objects}
+        1    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+       61    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+   680759    0.049    0.000    0.049    0.000 {method 'append' of 'list' objects}
+
+
+         53290733 function calls in 12.749 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   847337    0.215    0.000    0.215    0.000 algorithms.py:17(__init__)
+ 32502998    3.031    0.000    3.031    0.000 algorithms.py:35(__lt__)
+  1694734    0.280    0.000    0.280    0.000 algorithms.py:41(state_hash)
+  1972957    0.165    0.000    0.165    0.000 algorithms.py:56(get_x)
+  1972957    0.146    0.000    0.146    0.000 algorithms.py:62(get_y)
+  5001473    0.401    0.000    0.401    0.000 algorithms.py:68(get_g)
+   924061    0.114    0.000    0.114    0.000 algorithms.py:74(set_g)
+  1795712    0.137    0.000    0.137    0.000 algorithms.py:80(get_cost)
+   924121    0.112    0.000    0.112    0.000 algorithms.py:86(set_cost)
+   847337    0.796    0.000    7.208    0.000 algorithms.py:127(_in_closed_list)
+       30    0.003    0.000    0.003    0.000 algorithms.py:224(<dictcomp>)
+   110623    0.798    0.000   12.551    0.000 algorithms.py:203(_bi)
+       30    0.006    0.000    0.009    0.000 algorithms.py:223(_get_bi_closed)
+   110648    0.016    0.000    0.016    0.000 algorithms.py:235(bi_astar_stop)
+       30    0.136    0.005   12.749    0.425 algorithms.py:244(bi)
+   847397    0.756    0.000    1.149    0.000 algorithms.py:102(octile)
+   884984    0.463    0.000    0.463    0.000 map.py:100(is_valid_pair)
+   847337    0.123    0.000    0.123    0.000 map.py:112(cost)
+   110623    1.664    0.000    2.972    0.000 map.py:123(successors)
+   120318    0.034    0.000    0.055    0.000 {built-in method _heapq.heappush}
+   110623    0.110    0.000    0.203    0.000 {built-in method _heapq.heappop}
+    76724    3.080    0.000    5.998    0.000 {built-in method _heapq.heapify}
+       30    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+   360954    0.028    0.000    0.028    0.000 {built-in method builtins.abs}
+       30    0.000    0.000    0.000    0.000 {built-in method builtins.callable}
+   221301    0.019    0.000    0.019    0.000 {built-in method builtins.len}
+   157967    0.057    0.000    0.057    0.000 {built-in method builtins.min}
+       60    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+   847337    0.060    0.000    0.060    0.000 {method 'append' of 'list' objects}
+
+

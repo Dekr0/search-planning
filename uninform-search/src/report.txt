@@ -1,0 +1,73 @@
+         51707149 function calls in 16.209 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  2778863    0.605    0.000    0.605    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:16(__init__)
+  3361586    0.781    0.000    1.048    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:33(__lt__)
+  2778893    0.480    0.000    0.480    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:39(state_hash)
+   363114    0.092    0.000    0.123    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:47(__eq__)
+  6046689    0.503    0.000    0.503    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:54(get_x)
+  5684990    0.417    0.000    0.417    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:60(get_y)
+ 11698200    0.950    0.000    0.950    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:66(get_g)
+  2779469    0.342    0.000    0.342    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:72(set_g)
+   367973    0.092    0.000    0.092    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:81(__init__)
+  2778863    0.643    0.000    0.868    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:85(get_g)
+   367973    0.037    0.000    0.037    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:91(get_state)
+      606    0.000    0.000    0.000    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:94(set_parent)
+  2778863    1.257    0.000    2.523    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:109(_in_closed_list)
+       25    0.087    0.003    0.123    0.005 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:190(<dictcomp>)
+       30    1.815    0.061   16.209    0.540 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:172(dijkstra)
+        5    0.002    0.000    0.002    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:198(<dictcomp>)
+  2904712    1.485    0.000    1.485    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/map.py:100(is_valid_pair)
+  2778863    0.385    0.000    0.385    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/map.py:112(cost)
+   363089    5.522    0.000    9.651    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/map.py:123(successors)
+      606    0.000    0.000    0.000    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:97(set_g)
+        1    0.000    0.000    0.140    0.140 /usr/lib/python3.10/cProfile.py:113(__enter__)
+   367973    0.087    0.000    0.214    0.000 {built-in method _heapq.heappush}
+   363114    0.369    0.000    1.224    0.000 {built-in method _heapq.heappop}
+      606    0.024    0.000    0.091    0.000 {built-in method _heapq.heapify}
+        1    0.000    0.000    0.000    0.000 {method 'enable' of '_lsprof.Profiler' objects}
+       30    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+   363119    0.036    0.000    0.036    0.000 {built-in method builtins.len}
+       30    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+  2778863    0.194    0.000    0.194    0.000 {method 'append' of 'list' objects}
+
+
+         39735341 function calls in 12.758 seconds
+
+   Random listing order was used
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  2124581    0.572    0.000    0.572    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:16(__init__)
+  2394602    0.566    0.000    0.756    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:33(__lt__)
+  2124641    0.367    0.000    0.367    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:39(state_hash)
+  4339461    0.362    0.000    0.362    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:54(get_x)
+  4339461    0.319    0.000    0.319    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:60(get_y)
+  9324091    0.754    0.000    0.754    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:66(get_g)
+  2124976    0.261    0.000    0.261    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:72(set_g)
+   286883    0.071    0.000    0.071    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:81(__init__)
+  2126557    0.500    0.000    0.673    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:85(get_g)
+   286883    0.035    0.000    0.035    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:91(get_state)
+      395    0.000    0.000    0.000    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:94(set_parent)
+       30    0.038    0.001    0.057    0.002 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:102(<dictcomp>)
+       30    0.037    0.001    0.110    0.004 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:101(_get_bibs_closed_list)
+  2124581    1.029    0.000    1.988    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:109(_in_closed_list)
+   276860    1.370    0.000   12.137    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:122(_bibs_helper)
+       30    0.284    0.009   12.617    0.421 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:138(bibs)
+  2214880    1.134    0.000    1.134    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/map.py:100(is_valid_pair)
+  2124581    0.297    0.000    0.297    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/map.py:112(cost)
+   276860    4.080    0.000    7.346    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/map.py:123(successors)
+      395    0.000    0.000    0.000    0.000 /home/dekr0/Code/PycharmProjects/SearchAndPlan/Dij-BiBs/src/search/algorithms.py:97(set_g)
+   286883    0.069    0.000    0.168    0.000 {built-in method _heapq.heappush}
+   276860    0.268    0.000    0.890    0.000 {built-in method _heapq.heappop}
+      395    0.013    0.000    0.047    0.000 {built-in method _heapq.heapify}
+        1    0.141    0.141    0.243    0.243 {method 'enable' of '_lsprof.Profiler' objects}
+       30    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+   553776    0.044    0.000    0.044    0.000 {built-in method builtins.len}
+     1976    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+       60    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+  2124581    0.148    0.000    0.148    0.000 {method 'append' of 'list' objects}
+
+
