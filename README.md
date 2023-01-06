@@ -12,9 +12,13 @@ This repository contains all four projects required to finish in Search and Plan
   - The small portion within grey region indicated the region of which a algorithm could not travel through
   - The black region in the grey out version of the original maps indicated the area algorithms expanded during the search
 
-[](https://github.com/Dekr0/search-planning/blob/main/inform-search/src/mm/mm-16.png)
+![](https://github.com/Dekr0/search-planning/blob/main/inform-search/src/mm/mm-16.png)
 
-- The characteristic between two algorithms was compared for each path finding problems in terms of total numbers of expansions
+- The characteristic between algorithms was compared for each path finding problems in terms of total numbers of expansions
+
+![](https://github.com/Dekr0/search-planning/blob/main/inform-search/src/nodes_expanded_mm_astar.png)
+
+![](https://github.com/Dekr0/search-planning/blob/main/inform-search/src/nodes_expanded_mm_bi_astar.png)
 
 ---
 
