@@ -39,10 +39,6 @@ This repository contains all four projects required to finish in Search and Plan
 optimal move to play: 3
 ```
 
-- The characteristic between Minimax and Minimax with Alpha-Beta Pruning were compared in terms of number of expansions in the decision trees
-
-![](
-
 ---
 
 ## Suduku Solver
