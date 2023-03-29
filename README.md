@@ -1,4 +1,4 @@
-This repository contains all four projects required to finish in Search and Planning in Artificial Intelligence (CMPUT 366). Each folder contains the source code (located in `src` folder) for each project and analysis on the algorithms implemented per project.
+Each folder contains the source code (located in `src` folder) for each project and analysis on the algorithms implemented per project.
 
 ## Searching
 
