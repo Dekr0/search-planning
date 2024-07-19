@@ -1,4 +1,4 @@
-## About
+# About
 
 - This repository contains implementations of some commonly seen graph searching algorithm and algorithms for constraint satisfaction problems.
 - All implementations were written in Python but I'm planning write a performance version for each of them with other languages such as C, Zig, Rust, and Go.
@@ -11,8 +11,6 @@ Each folder contains the source code (located in `src` folder) for each project 
 ##  Searching
 
 ### Uninform and Inform Serach
-
----
 
 - Dijkstra, Bidirectional Search, A*, Bidirection A* and MM algorithm were implemented to solved each path finding problems on the video game data provided by [movingai.com](movingai.com).
 - Annoated maps were provided to visualize how each algorithm expanded during the searching process
@@ -27,8 +25,6 @@ Each folder contains the source code (located in `src` folder) for each project 
 ![](https://github.com/Dekr0/search-planning/blob/main/inform-search/src/nodes_expanded_mm_astar.png)
 
 ![](https://github.com/Dekr0/search-planning/blob/main/inform-search/src/nodes_expanded_mm_bi_astar.png)
-
----
 
 ## Minimax Connect 4
 
@@ -46,8 +42,6 @@ Each folder contains the source code (located in `src` folder) for each project 
 
 optimal move to play: 3
 ```
-
----
 
 ## Suduku Solver
 
