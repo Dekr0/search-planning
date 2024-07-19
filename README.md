@@ -4,7 +4,9 @@
 - All implementations were written in Python but I'm planning write a performance version for each of them with other languages such as C, Zig, Rust, and Go.
 - Along side, it contains some analysis on the behaviors difference between each algorithm that attempt to solve the same problem
 
-- Each folder contains the source code (located in `src` folder) for each project and analysis on the algorithms implemented per project.
+<br/>
+
+Each folder contains the source code (located in `src` folder) for each project and analysis on the algorithms implemented per project.
 
 ##  Searching
 
